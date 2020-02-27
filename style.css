@@ -1,0 +1,30 @@
+h2 {
+  font-family: monospace;
+}
+h1 {
+  font-family: Arial;
+}
+h1:hover {
+  color: azure;
+}
+p {
+  font-family: Helvetica;
+  text-align: justify;
+  font-size: 1em;
+  line-height: 2em;
+  color: white;
+}
+p:hover {
+  color: purple;
+}
+body {
+  background-color: rgb(161, 68, 248);
+}
+.background {
+  background-color: rgba(137, 24, 243, 3);
+}
+.p {
+  opacity: 3;
+  color: black;
+  color: rgb(red, green, blue)
+}
